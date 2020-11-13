@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="163" viewBox="0 0 119 163">
+  <g id="Registro" transform="translate(-204 -63)">
+    <rect id="Rectángulo_14" data-name="Rectángulo 14" width="119" height="163" rx="7" transform="translate(204 63)" fill="#25b1fa"/>
+    <rect id="Rectángulo_15" data-name="Rectángulo 15" width="28" height="28" rx="11" transform="translate(218 187)" fill="#fff"/>
+    <rect id="Rectángulo_16" data-name="Rectángulo 16" width="42" height="7" transform="translate(259 184)" fill="#fff"/>
+    <rect id="Rectángulo_17" data-name="Rectángulo 17" width="15" height="7" transform="translate(259 198)" fill="#fff"/>
+    <rect id="Rectángulo_18" data-name="Rectángulo 18" width="23" height="7" transform="translate(278 198)" fill="#fff"/>
+    <rect id="Rectángulo_15-2" data-name="Rectángulo 15" width="28" height="28" rx="11" transform="translate(218 146)" fill="#fff"/>
+    <rect id="Rectángulo_16-2" data-name="Rectángulo 16" width="42" height="6" transform="translate(259 143)" fill="#fff"/>
+    <rect id="Rectángulo_17-2" data-name="Rectángulo 17" width="15" height="6" transform="translate(259 157)" fill="#fff"/>
+    <rect id="Rectángulo_18-2" data-name="Rectángulo 18" width="23" height="6" transform="translate(278 157)" fill="#fff"/>
+    <path id="Trazado_2" data-name="Trazado 2" d="M14.337,0,40.271,8.312,51.635,33.583S39.6,44.943,27.4,48.987s-24.553.774-24.553.774S-1.957,37.576.915,25.136,14.337,0,14.337,0Z" transform="translate(229.438 97.594) rotate(-42)" fill="#fff"/>
+    <path id="Trazado_3" data-name="Trazado 3" d="M10.115,24.429,9.964,24.3a1.7,1.7,0,0,1-.241-.175L6.338,21.177l.017-.02-5.97-5.2a1.124,1.124,0,0,1-.11-1.583l2.574-2.965A1.12,1.12,0,0,1,4.43,11.3l5.97,5.2L24.724,0l4.653,4.05L12.094,23.956a1.681,1.681,0,0,1-.35.306l-.049.056a1.12,1.12,0,0,1-1.581.111Z" transform="matrix(0.996, 0.087, -0.087, 0.996, 253.128, 87.931)" fill="#25b1fa"/>
+    <rect id="Rectángulo_19" data-name="Rectángulo 19" width="11" height="6" transform="translate(215 85)" fill="#fff"/>
+    <rect id="Rectángulo_20" data-name="Rectángulo 20" width="17" height="6" transform="translate(215 74)" fill="#fff"/>
+    <rect id="Rectángulo_21" data-name="Rectángulo 21" width="6" height="6" transform="translate(298 74)" fill="#fff"/>
+    <rect id="Rectángulo_22" data-name="Rectángulo 22" width="6" height="6" transform="translate(309 74)" fill="#fff"/>
+    <path id="Trazado_1" data-name="Trazado 1" d="M-1004.79,629.06l-.155-.135a1.732,1.732,0,0,1-.248-.18l-3.476-3.022.018-.02-6.132-5.33a1.152,1.152,0,0,1-.113-1.624l2.644-3.041a1.152,1.152,0,0,1,1.624-.113l6.132,5.33L-989.784,604l4.779,4.155-17.751,20.42a1.728,1.728,0,0,1-.359.314l-.05.058a1.148,1.148,0,0,1-.869.4A1.148,1.148,0,0,1-1004.79,629.06Z" transform="translate(1238.948 -418.675)" fill="#80daff"/>
+    <path id="Trazado_1-2" data-name="Trazado 1" d="M-1004.79,629.06l-.155-.135a1.732,1.732,0,0,1-.248-.18l-3.476-3.022.018-.02-6.132-5.33a1.152,1.152,0,0,1-.113-1.624l2.644-3.041a1.152,1.152,0,0,1,1.624-.113l6.132,5.33L-989.784,604l4.779,4.155-17.751,20.42a1.728,1.728,0,0,1-.359.314l-.05.058a1.148,1.148,0,0,1-.869.4A1.148,1.148,0,0,1-1004.79,629.06Z" transform="translate(1238.948 -460.125)" fill="#80daff"/>
+  </g>
+</svg>

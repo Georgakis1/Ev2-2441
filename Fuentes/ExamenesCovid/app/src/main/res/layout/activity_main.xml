@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registro de examenes preventivos"
+        android:textSize="@dimen/titulo"
+        android:layout_gravity="center"
+
+
+
+        ></TextView>
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:text="Nombre:"
+            android:textSize="20sp"
+
+
+
+            ></TextView>
+        <EditText
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/rutTxt"
+            android:background="@color/color1"
+            android:hint="Nombre"
+
+
+
+            ></EditText>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:text="Password:"
+            android:textSize="20sp"
+
+
+
+            ></TextView>
+        <EditText
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/passwordTxt"
+            android:background="@color/color1"
+            android:hint="password"
+
+
+
+            ></EditText>
+
+    </LinearLayout>
+
+    <Button
+
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="20sp"
+        android:id="@+id/iniciarSesionBtn"
+
+        android:text="Registrar"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="@color/color4"
+
+        ></Button>
+
+
+
+
+
+</LinearLayout>
+
+
+
